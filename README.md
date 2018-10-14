@@ -1,5 +1,10 @@
-kisi-demo-dashboard
+# kisi-demo-dashboard
 
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+[DEMO](https://testing-kisi-io.netlify.com).
 
 
+### Build
+* `npm install`
+
+
+* `npm run build`
